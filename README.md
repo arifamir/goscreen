@@ -2,11 +2,11 @@ GoScreen package provides an easy way for clearing the screen and getting
 the size of the current terminal.
 
 
-##Installation
+## Installation:
 
 `$ go get -u github.com/arifamir/goscreen`
 
-## Clearing the Screen
+## Clearing the Screen:
 
 You can clear the screen and move the cursor to the top-left corner of the screen. This is good enough to create an animated program (such as an always updating clock or a progress bar).
 
