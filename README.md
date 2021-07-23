@@ -24,7 +24,7 @@ You can clear the screen and move the cursor to the top-left corner of the scree
     
         for {
             // Moves the cursor to the top-left position of the screen
-            screen.MoveTopLeft()
+            goscreen.MoveTopLeft()
     
             // Animate the time always in the same position
             fmt.Println(time.Now())
